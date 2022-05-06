@@ -100,8 +100,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Copy or download <b>index.php</b>.
 
 ### Prerequisites
 
@@ -145,7 +144,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
+- [ ] Feature 1 =>
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
@@ -153,7 +152,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/mdMandoinfo/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+-->
 
 
 <!-- CONTRIBUTING -->
@@ -186,7 +185,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@mdMandoinfo](https://twitter.com/mdMandoinfo) - info.mdMando@gmail.com
+[@mdMandoinfo](https://twitter.com/mdMandoinfo) - info.mdMando@gmail.com
 
 Project Link: [https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network](https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network)
 
@@ -194,13 +193,13 @@ Project Link: [https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFl
 
 
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- ACKNOWLEDGMENTS 
 ## Acknowledgments
 
 * []()
 * []()
 * []()
-
+-->
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 

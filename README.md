@@ -97,7 +97,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Download **index.php**free API Key at [Download](https://github.com//mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/archive/refs/heads/main.zip)
 2. Clone the repo
    ```sh
    git clone https://github.com/mdMandoinfo/repo_name.git
@@ -175,17 +175,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Script Link: [https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network](https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS 
-## Acknowledgments
-
-* []()
-* []()
-* []()
--->
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

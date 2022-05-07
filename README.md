@@ -114,7 +114,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] 2 => visitor count: for example you can use [Get the count of visitors](https://github.com/mdMandoinfo/Get-the-count-of-visitors-by-IP-visitors)
 - [ ] 3 => 
 
-See the [open issues](https://github.com/mdMandoinfo/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

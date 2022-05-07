@@ -85,19 +85,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Copy or download <b>index.php</b>.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Download **index.php**free API Key at [Download](https://github.com//mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/archive/refs/heads/main.zip)
+1. Download **index.php** [Download](https://github.com//mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/archive/refs/heads/main.zip)
 2. Clone the repo
    ```sh
    git clone https://github.com/mdMandoinfo/repo_name.git
@@ -122,23 +110,13 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1 =>
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] 1 => Auth System
+- [ ] 2 => visitor count: for example you can use [Get the count of visitors](https://github.com/mdMandoinfo/Get-the-count-of-visitors-by-IP-visitors)
+- [ ] 3 => 
 
 See the [open issues](https://github.com/mdMandoinfo/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
--->
-
 
 <!-- CONTRIBUTING -->
 ## Contributing

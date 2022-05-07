@@ -86,17 +86,10 @@
 ## Getting Started
 
 1. Download **index.php** [Download](https://github.com//mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/archive/refs/heads/main.zip)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/mdMandoinfo/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+2. After downloading move the `index.php` to your webspace
+3. Now you can simply call the function
+   ```php
+   GetVisitorIP() ';
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>

@@ -23,7 +23,7 @@
     Get real visitorIP behind CloudFlare network
     by this smiple script.
     <br />
-    <a href="https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/blob/main/docs.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network">View Demo</a>
@@ -41,7 +41,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About The Script</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -58,7 +58,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 

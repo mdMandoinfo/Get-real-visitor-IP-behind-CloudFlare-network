@@ -89,12 +89,12 @@
 2. After downloading move the `index.php` to your webspace
 3. Now you can simply call the function
    ```php
-    GetVisitorIP() ;
+    GetVisitorIP();
    ```
 Or you can simply call the function as variable
   ```php
     $VisitorIP = GetVisitorIP();
-      echo $VisitorIP;
+      echo $VisitorIP; // Print Visitor IP 
   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>

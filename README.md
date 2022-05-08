@@ -91,9 +91,10 @@
    ```php
     GetVisitorIP() ;
    ```
-4. Or you can simply call the variable
+Or you can simply call the function as variable
   ```php
-    $VisitorIP;
+    $VisitorIP = GetVisitorIP();
+      echo $VisitorIP;
   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>

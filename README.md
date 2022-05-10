@@ -82,8 +82,8 @@
 3. Now you can simply call the function
   ```php
     GetVisitorIP();
-  ```msg
   ```
+  ```msg
   Or you can simply call the function as variable
   ```
   ```php

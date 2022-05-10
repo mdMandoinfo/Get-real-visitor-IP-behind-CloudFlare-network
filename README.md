@@ -156,7 +156,7 @@ Script Link: [https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFla
 [issues-shield]: https://img.shields.io/github/issues/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network.svg?style=for-the-badge
 [issues-url]: https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/issues
 [license-shield]: https://img.shields.io/github/license/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network.svg?style=for-the-badge
-[license-url]: https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
+[linkedin-url]: https://twitter.com/mdMandoinfo
 [linkedin-url]: https://linkedin.com/in/mdMandoinfo
 [product-screenshot]: images/screenshot.png

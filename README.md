@@ -54,7 +54,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -66,9 +65,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Script
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -76,7 +72,6 @@
 ### Built With
 
 * [PHP](https://php.com)
-* [Bootstrap](https://getbootstrap.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -104,13 +99,11 @@ Or you can simply call the function as variable
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 - [ ] 1 => Auth System
 - [ ] 2 => visitor count: for example you can use [Get the count of visitors](https://github.com/mdMandoinfo/Get-the-count-of-visitors-by-IP-visitors)
-- [ ] 3 => 
+- [ ] 3 => Security
+- [ ] 4 => Systems
+_For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/issues) for a full list of proposed features (and known issues).
 

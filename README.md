@@ -6,7 +6,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![Twitter][twitter-shield]][twitter-url]
 
 
@@ -155,7 +154,6 @@ Script Link: [https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFla
 [stars-url]: https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/stargazers
 [issues-shield]: https://img.shields.io/github/issues/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network.svg?style=for-the-badge
 [issues-url]: https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/issues
-[license-shield]: https://img.shields.io/github/license/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network.svg?style=for-the-badge
 [twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
 [twitter-url]: https://twitter.com/mdMandoinfo
 [product-screenshot]: images/screenshot.png

@@ -80,10 +80,12 @@
 1. Download **index.php** [Download](https://github.com//mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/archive/refs/heads/main.zip)
 2. After downloading move the `index.php` to your webspace
 3. Now you can simply call the function
-   ```php
+  ```php
     GetVisitorIP();
-   ```
+  ```msg
+  ```
   Or you can simply call the function as variable
+  ```
   ```php
     $VisitorIP = GetVisitorIP();
       echo $VisitorIP; // Print Visitor IP 

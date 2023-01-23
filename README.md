@@ -137,7 +137,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[@mdMandoinfo](https://twitter.com/mdMandoinfo) - Discord: mdMandoinfo#9819
+[@mdMandoinfo](https://twitter.com/mdMandoinfo) - Discord: **mdMandoinfo#9819**
 
 Script Link: [https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network](https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network)
 
